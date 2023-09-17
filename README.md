@@ -17,7 +17,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/thezeeshi-dev/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="[https://www.linkedin.com/in/thezeeshi-dev/](https://www.linkedin.com/in/zunair-khan-full-stack-software-developer-a45808289/)"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 © 2023 Zunair Khan
 
