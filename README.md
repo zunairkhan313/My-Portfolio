@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://my-portfolio-mx1l.vercel.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://zeeshi-port-folio.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -17,7 +17,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="[https://www.linkedin.com/in/thezeeshi-dev/](https://www.linkedin.com/in/zunair-khan-full-stack-software-developer-a45808289/)"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/zunair-khan-full-stack-software-developer-a45808289/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 © 2023 Zunair Khan
 
