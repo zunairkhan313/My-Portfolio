@@ -654,7 +654,7 @@ header .navbar ul li a:hover {
 .work .box-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 8.5rem;
   margin: 2rem;
 }
 .work .box-container .box {
@@ -668,7 +668,7 @@ header .navbar ul li a:hover {
 .work .box-container .box img {
   height: 100%;
   width: 100%;
-  object-fit: cover;
+
 }
 .work .box-container .box .content {
   height: 100%;
